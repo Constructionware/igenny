@@ -1,3 +1,0 @@
-graft bcal/static
-graft bcal/templates
-global-exclude *.pyc
