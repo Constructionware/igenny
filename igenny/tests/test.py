@@ -1,3 +1,4 @@
 # pycal/tests.py
 
-from calculator import cal
+from from igenny import genny
+
